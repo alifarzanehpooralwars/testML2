@@ -12,3 +12,7 @@ tests/
 
 # IDE / OS junk
 .DS_Store
+
+# PyCharm / JetBrains IDE
+.idea/
+
