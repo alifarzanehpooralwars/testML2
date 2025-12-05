@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.pyc
+
+mlruns/
+mlflow.db
+
+models/
+data/
+
+tests/
+
+# IDE / OS junk
+.DS_Store

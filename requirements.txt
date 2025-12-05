@@ -1,0 +1,19 @@
+# CPU-only PyTorch
+torch==2.3.1+cpu
+torchvision==0.18.1+cpu
+torchaudio==2.3.1+cpu
+--extra-index-url https://download.pytorch.org/whl/cpu
+
+fastapi
+mlflow-skinny
+numpy
+pandas
+pandas-stubs
+pytest
+pydantic
+scikit-learn
+sentence-transformers
+transformers
+uvicorn[standard]
+httpx
+mlflow[extras]
