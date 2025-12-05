@@ -6,7 +6,6 @@ mlruns/
 mlflow.db
 
 models/
-data/
 
 tests/
 
