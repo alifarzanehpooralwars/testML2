@@ -11,3 +11,7 @@ models/
 
 # Tests
 tests/
+
+# Ignore everything inside data/ EXCEPT the required JSONL file
+data/*
+!data/arxiv_abstracts.jsonl
